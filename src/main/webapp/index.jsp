@@ -1,7 +1,7 @@
 <html>
 <body>
 <title>
-MavenSampleWebApp
+Maven Sample WebApp
 <title>
 <head>
 <h2>Hello World to our first sample</h2>
